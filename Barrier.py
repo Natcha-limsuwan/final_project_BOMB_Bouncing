@@ -1,5 +1,7 @@
 import turtle
 turtle.hideturtle()
+
+
 class Barrier:
     def __init__(self, x, y, color):
         self.barrier = turtle.Turtle()
