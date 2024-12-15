@@ -1,6 +1,8 @@
 import turtle
 import random
 turtle.hideturtle()
+
+
 class Ball:
     def __init__(self):
         self.ball = turtle.Turtle()
